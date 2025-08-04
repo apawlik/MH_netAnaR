@@ -10,8 +10,8 @@ type: software
 authors:
   - given-names: David
     family-names: Schoch
-    email: david.schoch@gesis.org
-    affiliation: GESIS - Leibniz Institute for the Social Sciences
+    email: david@schochastics.net
+    affiliation: Cynkra
     orcid: 'https://orcid.org/0000-0003-2952-4812'
 identifiers:
   - type: url
