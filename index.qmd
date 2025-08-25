@@ -15,6 +15,7 @@ execute:
   echo: true
   warning: false
 license: CC BY-NC
+engine: knitr
 jupyter:
   kernelspec:
     name: "ir"
